@@ -1,4 +1,4 @@
-# qa-automation-framework
+# qa-auto-hostel
 
 API test-automation framework built with Python and pytest. It tests the public
 [restful-booker](https://restful-booker.herokuapp.com) demo API.
